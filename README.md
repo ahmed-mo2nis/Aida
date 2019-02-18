@@ -93,6 +93,7 @@ chmod u+x parrot.py
 ## To Do List
 - Test Aida VA On Fedora OS (Very Soon)
 - Use Aida VA For Home Automation (Soon)
+- Make Aida VA Run Programs And Read Articles (Soon)
 - Link vision.py With Aida VA Without Breaching User's Privacy (Soon)
 - Make Aida VA Check E-mail Without Breaching User's Privacy (Soon)
 - Improve Accuracy For Voice Recognition (Not So Soon!)
