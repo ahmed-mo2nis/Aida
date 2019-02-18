@@ -31,9 +31,12 @@ When You Speak To Aida VA, A .wav File Is Created Recording Your Voice Command. 
 
 For Now It Only Works On GNU/Linux Systems. I Have Tested It On Debian, Ubuntu And Raspbian. I Haven't Tested It On Fedora Yet But Feel Free To Do That (You'll Have To Install Dependencies Yourself Though Since I Haven't Created A Setup File For Fedora Yet. More On That Later).
 
-As For Hardware Requirements You'll Need A Microphone. I Used [Kinobo USB Mini Microphone](https://www.amazon.com/Kinobo-Microphone-Desktop-Recognition-Software/dp/B00IR8R7WQ) And It Worked Fine. Whatever Microphone You Intend To Use With Your PC Make Sure To Test It First Using [This Link](https://www.onlinemictest.com/).
+In Order To Use The Aida VA To Play Music/Audio Files For You, Your Music/Audio Files Need To Be In The Music Folder In Your Home Directory And (For Some Wierd Unknown Reason!) Your Music Files Shouldn't Be In CAPS Or Contain "'" !
 
 You Need About 7 GB Of Free Space Since You'll Need To Download The [DeepSpeech](https://github.com/mozilla/DeepSpeech/) Pre-Trained Language Model.
+
+As For Hardware Requirements You'll Need A Microphone. I Used [Kinobo USB Mini Microphone](https://www.amazon.com/Kinobo-Microphone-Desktop-Recognition-Software/dp/B00IR8R7WQ) And It Worked Fine. Whatever Microphone You Intend To Use With Your PC Make Sure To Test It First Using [This Link](https://www.onlinemictest.com/).
+
 
 ## Installation
 
