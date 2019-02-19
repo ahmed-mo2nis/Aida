@@ -1,0 +1,63 @@
+========================================================================Instructions====================================================================================
+
+Voice Command			What It Does						Example(s)
+
+
+"who are you"			General Conversation					"who are you"
+"how do i look"			General Conversation					"how do i look"	
+"how am i"			General Conversation					"how am i"
+"tell me a joke"		General Conversation					"tell me a joke" OR "could you tell a joke"
+"who am i"			General Conversation					"who am i"
+"where were you born"		General Conversation					"where were you born"
+"how are you"			General Conversation					"how are you"
+
+"aida"				Wake Word						"aida"
+
+"what can you do"		Lists Aida VA's Functions				"what can you do" OR "what else can you do"
+
+"time"				Tells Time						"what's the time" OR "what time is it" OR "tell me the time" OR "time"
+"day"				Tells The Day We're In					"what day is this" OR "what day is it" OR "which day we are in"
+"month"				Tells The Month We're In				"which month is this"
+"date"				Tells Today's Date					"what date is today" OR "what's today's date"
+
+"wikipedia" + "TOPIC"		Information About A Topic/Person From Wikipedia		"wikipedia nikola tesla" OR "wikipedia egypt"
+
+"news"				Asks You Which News Category Do You Want		"tell me the news" OR "what's the news" OR "news"
+"political"			Asks Which News Website Do You Want			"political"
+"bbc"				Reads Headlines From BBC's Website			"bbc"
+"cnn"				Reads Headlines From CNN's Website			"cnn"
+"reuters"			Reads Headlines From Reuters's Website			"reuters"
+"the guardian"			Reads Headlines From The Guardian's Website		"the guardian"
+"cbs"				Reads Headlines From CBS's Website			"cbs"
+"washington post"		Reads Headlines From Washington Post's Website		"washington post"
+"finance"			Reads Financial News Headlines				"finance"
+"financial"			Reads Financial News Headlines				"financial"
+"sports"			Reads Sports News Headlines				"sports"
+"sport"				Reads Sports News Headlines				"sport"
+
+"weather" + "CITY"		Tells You The Weather In A Specific City		"new york weather" OR "weather tokyo"
+
+"open firefox"			Opens Firefox Web Browser				"open firefox"
+"check email"			Opens Your E-mail					"check email"
+"search" + "TOPIC"		Does A Web Search On A Specific Topic			"search football team" OR "search isaac newton"
+
+"sleep"				Turns Aida VA Off And Clears The Command Line		"sleep"
+"shutdown"			Turns The Computer Off					"shutdown"
+"turn off"			Turns The Computer Off					"turn off"
+"restart"			Restarts The Computer					"restart"
+
+"play music"			Plays A Music/Audio File In The "Music" Folder		"play music"
+"music"				Plays A Music/Audio File In The "Music" Folder		"music"
+"play" + "SONG"			Plays A Specific Music File From The "Music" Folder	"play another brick in the wall" OR "play mad world"
+"shuffle music"			Shuffles/Mixes Music From The "Music" Folder		"shuffle music"
+"mix music"			Shuffles/Mixes Music From The "Music" Folder		"mix music"
+
+"note"				Takes A Note That You Dictate				"note remember to exercise" OR "note your wife's birthday is in 2 weeks"
+"all notes"			Reads All The Notes Previously Saved (If Any)		"all notes" OR "show all notes" OR "read all notes" OR "display all notes"
+"show notes"			Reads All The Notes Previously Saved (If Any)		"all notes" OR "show all notes" OR "read all notes" OR "display all notes"
+"read notes"			Reads All The Notes Previously Saved (If Any)		"all notes" OR "show all notes" OR "read all notes" OR "display all notes"
+"delete notes"			Deletes All The Previous Notes				"delete notes"
+"erase notes"			Deletes All The Previous Notes				"erase notes"
+
+"text mode"			Switches To A Chatbot					"text mode"
+				Where You Type Commands Instead Of Saying Them
